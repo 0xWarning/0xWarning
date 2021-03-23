@@ -7,6 +7,8 @@
 ## Projects
 * **[AnonFile-Uploader](https://github.com/0xWarning/AnonFile-Uploader)**
   * A very simple file uploader using the anonfiles api written in c#
+* **[0xUpdater](https://github.com/0xWarning/0xUpdater-2.0)**
+  * A very simple updater written in c# and php
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
