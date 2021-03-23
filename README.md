@@ -1,4 +1,15 @@
-### Hi there 👋
+<div align="center">
+
+# Welcome
+
+
+## Projects
+* **[AnonFile-Uploader](https://github.com/0xWarning/AnonFile-Uploader)**
+  * A very simple file uploader using the anonfiles api written in c#
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xwarning&layout=compact" alt="Github Stats"/>
 
 <!--
 **0xWarning/0xWarning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
