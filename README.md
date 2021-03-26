@@ -13,6 +13,9 @@
   * Simple application for people to learn off and fud :) written in c#
 * **[UAC-Bypass](https://github.com/0xWarning/UAC-Bypass)**
   * Simple way to bypass windows User Account Control written in c#
+* **[PHP-api-with-mysql](https://github.com/0xWarning/PHP-api-with-mysql)**
+  * Simple project someone might find usefull written in php
+
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
