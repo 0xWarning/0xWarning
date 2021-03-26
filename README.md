@@ -15,6 +15,8 @@
   * Simple way to bypass windows User Account Control written in c#
 * **[php-host2ip-api-with-mysql](https://github.com/0xWarning/php-host2ip-api-with-mysql)**
   * Simple project someone might find usefull written in php
+* **[simple-node-portscan](https://github.com/0xWarning/simple-node-portscan)**
+  * Simple port scan written in node js
 
 
 ## Stats
