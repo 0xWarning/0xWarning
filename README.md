@@ -11,6 +11,10 @@
   * A very simple updater written in c# and php
 * **[fudWebClient](https://github.com/0xWarning/fudWebClient)**
   * Simple application for people to learn off and fud :) written in c#
+* **[UAC-Bypass](https://github.com/0xWarning/UAC-Bypass)**
+  * Simple way to bypass windows User Account Control written in c#
+
+https://github.com/0xWarning/UAC-Bypass
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
