@@ -14,8 +14,6 @@
 * **[UAC-Bypass](https://github.com/0xWarning/UAC-Bypass)**
   * Simple way to bypass windows User Account Control written in c#
 
-https://github.com/0xWarning/UAC-Bypass
-
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xwarning&layout=compact" alt="Github Stats"/>
