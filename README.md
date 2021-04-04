@@ -17,6 +17,8 @@
   * Simple project someone might find usefull written in php
 * **[simple-node-portscan](https://github.com/0xWarning/simple-node-portscan)**
   * Simple port scan written in node js
+* **[Node-Web-Server](https://github.com/0xWarning/Node-Web-Server)**
+  * Node Web Server with PUG and EXPRESS
 
 
 ## Stats
