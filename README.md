@@ -22,6 +22,7 @@
 
 
 ## Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xWarning&label=Profile%20views&color=0e75b6&style=flat" alt="0xWarning" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xwarning&layout=compact" alt="Github Stats"/>
 
