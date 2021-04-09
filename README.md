@@ -19,6 +19,8 @@
   * Simple port scan written in node js
 * **[Node-Web-Server](https://github.com/0xWarning/Node-Web-Server)**
   * Web Server made with NODE.js,  PUG & EXPRESS
+* **[Reg](https://github.com/0xWarning/Reg)**
+  * Helper bot made with NODE.js & Discord.js
 
 
 ## Stats
