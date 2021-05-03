@@ -21,6 +21,8 @@
   * Web Server made with NODE.js,  PUG & EXPRESS
 * **[Reg](https://github.com/0xWarning/Reg)**
   * Helper bot made with NODE.js & Discord.js
+ * **[Loe](https://github.com/0xWarning/Loe)**
+  * Channel Logger bot made with NODE.js & Discord.js
 
 
 ## Stats
