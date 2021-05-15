@@ -24,11 +24,15 @@
 * **[Loe](https://github.com/0xWarning/Loe)**
   * Channel Logger bot made with NODE.js & Discord.js
 
-
 ## Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xWarning&label=Profile%20views&color=0e75b6&style=flat" alt="0xWarning" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
+
+<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=0xWarning&label=Profile%20views&color=0e75b6&style=flat" alt="0xWarning" />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xwarning&theme=dark&layout=compact" alt="Github Stats"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
 
 <!--
 **0xWarning/0xWarning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
