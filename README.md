@@ -9,8 +9,6 @@
   * A very simple file uploader using the anonfiles api written in c#
 * **[0xUpdater](https://github.com/0xWarning/0xUpdater-2.0)**
   * A very simple updater written in c# and php
-* **[fudWebClient](https://github.com/0xWarning/fudWebClient)**
-  * Simple application for people to learn off and fud :) written in c#
 * **[UAC-Bypass](https://github.com/0xWarning/UAC-Bypass)**
   * Simple way to bypass windows User Account Control written in c#
 * **[php-host2ip-api-with-mysql](https://github.com/0xWarning/php-host2ip-api-with-mysql)**
