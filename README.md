@@ -1,10 +1,13 @@
-<div align="center">
+
 <p align="center">
- 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Developer;Cyber+Security+Researcher)](https://git.io/typing-svg)
- 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Developer;Cyber+Security+Researcher;&font=Fira%20Code&center=true&width=380&height=50">
+   <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xWarning?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
 </p>
-</div>
+
+# Welcome 
+
 
 # Projects
 * **[AnonFile-Uploader](https://github.com/0xWarning/AnonFile-Uploader)**
