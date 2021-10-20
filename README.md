@@ -1,12 +1,13 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Developer;Cyber+Security+Researcher;&font=Fira%20Code&center=true&width=380&height=50">
-   <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xWarning?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
 </p>
 
-# Welcome 
+<p align="center">
+  <a href="https://github.com/0xWarning?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://0xwarning.space/ucount.php"/></a>
+</p>
 
 
 # Projects
