@@ -1,6 +1,8 @@
 <div align="center">
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Developer;Cyber+Security+Researcher)](https://git.io/typing-svg)
+ 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Developer;Cyber+Security+Researcher)](https://git.io/typing-svg)
+ 
 </p>
 </div>
 
