@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Self+Taught+Developer;Cyber+Security+Researcher;&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-https://cdn.discordapp.com/attachments/857580693144338463/933861370703802429/detectcf.zip
+
 <p align="center">
   <a href="https://github.com/0xWarning?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xWarning?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
