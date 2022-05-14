@@ -28,6 +28,8 @@
   * Helper bot made with NODE.js & Discord.js
 * **[Loe](https://github.com/0xWarning/Loe)**
   * Channel Logger bot made with NODE.js & Discord.js
+* **[Bender](https://github.com/0xWarning/Bender)**
+  * Jsut a discord bot made with NODE
 
 ## Stats
 
