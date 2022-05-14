@@ -10,7 +10,7 @@
 </p>
 
 
-# Projects
+# 📚 Projects
 * **[AnonFile-Uploader](https://github.com/0xWarning/AnonFile-Uploader)**
   * A very simple file uploader using the anonfiles api written in c#
 * **[0xUpdater](https://github.com/0xWarning/0xUpdater-2.0)**
@@ -23,7 +23,7 @@
   * Simple port scan written in node js
 * **[Node-Web-Server](https://github.com/0xWarning/Node-Web-Server)**
   * Web Server made with NODE.js,  PUG & EXPRESS
-## Bots
+## 🤖 Bots
 * **[Reg](https://github.com/0xWarning/Reg)**
   * Helper bot made with NODE.js & Discord.js
 * **[Loe](https://github.com/0xWarning/Loe)**
@@ -31,7 +31,7 @@
 * **[Bender](https://github.com/0xWarning/Bender)**
   * Jsut a discord bot made with NODE
 
-## Stats
+## 📈 Stats
 
 <br>
 <p align="center">
