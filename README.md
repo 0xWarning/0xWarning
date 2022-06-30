@@ -42,7 +42,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xwarning&theme=radical&layout=compact" alt="Github Stats"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=0xwarning&show_icons=true&theme=radical&count_private=true" alt="Github Stats"/>
-
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=0xwarning&theme=radical&hide_border=true">
+  <br>
+  <br>
+ 
+</p>
 <!--
 **0xWarning/0xWarning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
