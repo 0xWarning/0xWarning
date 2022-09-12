@@ -11,6 +11,8 @@
 
 
 # 📚 Projects
+* **[Nitrous-Proxies](https://github.com/0xWarning/Nitrous-Proxies)**
+  * Using C# and threading to scrape proxies from sources.
 * **[AnonFile-Uploader](https://github.com/0xWarning/AnonFile-Uploader)**
   * A very simple file uploader using the anonfiles api written in c#
 * **[0xUpdater](https://github.com/0xWarning/0xUpdater-2.0)**
