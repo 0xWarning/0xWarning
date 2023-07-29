@@ -27,6 +27,8 @@
   * Web Server made with NODE.js,  PUG & EXPRESS
 * **[Node-API-Backend](https://github.com/0xWarning/Node-API-Backend)**
   * Using Express, Mongoose, Bcrypt, and Node.js, I'm currently working on a backend for an authentication system that will feature hashed passwords and numerous checks.
+* **[Node-API-Auth-C\-Client](https://github.com/0xWarning/Node-Auth-Api-.NET)**
+  * Using Express, Mongoose, Bcrypt, and Node.js, I'm currently working on a backend for an authentication system that will feature hashed passwords and numerous checks hooked up witha csharp client for application functionality and authentication for applications.
 ## 🤖 Bots
 * **[Reg](https://github.com/0xWarning/Reg)**
   * Helper bot made with NODE.js & Discord.js
