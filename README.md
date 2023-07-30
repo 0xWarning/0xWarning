@@ -17,6 +17,8 @@
   * A very simple file uploader using the anonfiles api written in c#
 * **[py-SteamBanInfo](https://github.com/0xWarning/py-SteamBanInfo)**
   * Simple Python script to check if steam user has any bans
+* **[node-Chat](https://github.com/0xWarning/node-Chat)**
+  * Node.js Live Chat with socket.io, express, passport and mongoose with authentication
 * **[0xUpdater](https://github.com/0xWarning/0xUpdater-2.0)**
   * A very simple updater written in c# and php
 * **[UAC-Bypass](https://github.com/0xWarning/UAC-Bypass)**
