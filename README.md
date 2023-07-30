@@ -15,6 +15,8 @@
   * Using C# and threading to scrape proxies from sources.
 * **[AnonFile-Uploader](https://github.com/0xWarning/AnonFile-Uploader)**
   * A very simple file uploader using the anonfiles api written in c#
+* **[py-SteamBanInfo](https://github.com/0xWarning/py-SteamBanInfo)**
+  * Simple Python script to check if steam user has any bans
 * **[0xUpdater](https://github.com/0xWarning/0xUpdater-2.0)**
   * A very simple updater written in c# and php
 * **[UAC-Bypass](https://github.com/0xWarning/UAC-Bypass)**
